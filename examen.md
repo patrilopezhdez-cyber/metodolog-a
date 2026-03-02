@@ -11,7 +11,4 @@ Todo lo que entra en el examen sale de esos dos vídeos.
 
 ---
 
-## 📝 Tipo de preguntas
-
-- Preguntas de seleccionar opciones
-- Preguntas cortas (escribir, corregir o explicar código).
+## 📝 Sin preguntas y sin respuestas
