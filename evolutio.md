@@ -6,6 +6,24 @@ En este curso vas a reproducir la aplicación que el profesor construye en clase
 
 Para **experimentar y hacer pruebas**, usarás **ramas aparte** que **nunca** se mezclarán con `main`.
 
+
+
+
+
+
+
+
+oooooooooooooooo 0000000000000000
+oooooooooooooooo 0000000000000000
+oooooooooooooooo 0000000000000000
+oooooooooooooooo 0000000000000000
+oooooooooooooooo 0000000000000000
+oooooooooooooooo 0000000000000000
+oooooooooooooooo 0000000000000000
+
+
+
+
 ---
 
 ## 🥇 Regla de oro
