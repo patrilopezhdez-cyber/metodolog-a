@@ -11,3 +11,5 @@ Esta prueba cuenta un **100%** de la nota final de la asignatura.
 ## 📝 Tipo de preguntas
 
 - 1 + 1
+- 2 + 2
+- Saluda al profesor
